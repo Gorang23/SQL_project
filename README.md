@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# SQL_projects
 
 This repository contains my data analysis projects using Excel, Power BI, and SQL.
 
